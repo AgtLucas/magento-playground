@@ -1,4 +1,3 @@
-magento-playground
-==================
+Magento Playground
 
 Tweaking Magento
